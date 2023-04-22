@@ -22,3 +22,7 @@ Il progetto consiste nell'implementazione di un software per giocare ad un video
 - Attenzione agli **asteroidi!!!**
 
 - Una volta che i punti salute dell'astronave scendono a 0, è possibile *salvare il punteggio*.
+
+<p>
+<img src="https://github.com/AlessioMuzi/Progetto-PMO/blob/main/res/Menu/lost-vikings.jpg" alt="lost-vikings" width="800"/>
+</p>
