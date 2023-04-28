@@ -25,6 +25,6 @@ Il progetto consiste nell'implementazione di un software per giocare ad un video
 
 <p>
   <center>
-<img src="https://github.com/AlessioMuzi/Progetto-PMO/blob/main/lost-vikings.JPG" alt="lost-vikings" width="800"/>
+     <img src="https://github.com/AlessioMuzi/Progetto-PMO/blob/main/lost-vikings.JPG" alt="lost-vikings" width="800"/>
   </center>
 </p>
